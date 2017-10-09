@@ -1,8 +1,4 @@
 node_modules/
-temp/npm-debug.log
+.*.sw*
+docker-compose.yml
 .DS_Store
-.idea
-docs/
-gh-pages
-.creds
-coverage/
